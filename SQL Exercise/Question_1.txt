@@ -1,0 +1,40 @@
+1. Gunakan database sakila...
+Dari tabel "payment", tampilkan 10 baris data customer id, rental id, amount, dan payment date !
+
+2. Gunakan database sakila...
+Dari tabel "film", tampilkan 10 judul film, tahun release, dan durasi rental dimana judul film yang ditampilkan yang dimulai dengan huruf "S" !
+
+3. Gunakan database sakila...
+Dari tabel "film", tampilkan durasi rental, banyaknya film setiap durasi rental, dan rata-rata durasi film !
+Kelompokkan jumlah film dan rata-rata durasi film berdasarkan durasi rentalnya !
+Karena rata-rata durasi film angka desimal, bulatkan 2 angka dibelakang koma !
+
+4. Gunakan database sakila...
+Dari tabel "film", tampilkan title, durasi film, dan rating yang durasi filmnya lebih dari rata-rata durasi film total!
+Tampilkan 25 data yang diurutkan dari durasi terlama!
+
+5. Gunakan database sakila...
+Dari tabel "film", tampilkan rating, replacement cost tertinggi, rental rate terendah, dan rata-rata durasi dan kelompokkan berdasarkan rating film!
+
+6. Gunakan database sakila...
+Tampilkan 15 daftar film yang memiliki huruf "K" pada akhir title, lalu tampilkan title, durasi, serta bahasa pada film!
+Sebagai catatan, lakukan join terlebih dahulu dari tabel "film" dan tabel language!
+
+7. Gunakan database sakila...
+Tampilkan judul film (dari tabel "film"), First Name (dari tabel "actor"), dan Last Name (Dari tabel "actor") dari actor yang memiliki "actor_id" = 14!
+Sebagai catatan, lakukan join table terlebih dahulu antara tabel "film", "film actor" dan "actor"
+
+8. Gunakan database sakila...
+Dari tabel "city", tampilkan city dan country id!
+Tampilkan hanya city atau kota yang namanya ada huruf "d" diposisi manapun dan diakhiri huruf "a"!
+Tampilkan 15 data yang diurutkan berdasarkan city-nya secara ascending!
+
+9. Gunakan database sakila...
+Tampilkan nama genre (name dari tabel "category") dan jumlah banyaknya film disetiap genrenya!
+Lakukan join terlebih dahulu antara tabel "film", "film category", dan "category"!
+Urutkan berdasarkan jumlah film di setiap kategorinya secara ascending!
+
+10. Gunakan database sakila...
+Dari tabel "film", tampilkan title, description, length, serta rating!
+Tampilkan 10 judul film yang diakhiri huruf "h" dan durasinya diatas durasi rata-rata!
+Urutkan berdasarkan judulnya secara ascending!
